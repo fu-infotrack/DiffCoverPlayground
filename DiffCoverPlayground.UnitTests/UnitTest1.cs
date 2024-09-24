@@ -7,6 +7,7 @@ namespace DiffCoverPlayground.UnitTests
         {
             Runner runner = new Runner();
             runner.RunTested_Original();
+            runner.RunTested_New();
         }
     }
 }
